@@ -1,0 +1,22 @@
+body {
+  background-color: #FFF7D1;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: black;
+}
+
+.hot-air-balloon-poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 6%;
+  color: black;
+  font-family: "Libre Baskerville";
+  text-align: center;
+}
+
+.poster {
+  border: 5px solid black;
+  width: 100%;
+}
